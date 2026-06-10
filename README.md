@@ -3,7 +3,9 @@
 <p>Le projet DEEP se déroule en deux phases. Dans un premier temps, l’accent est mis sur la partie matérielle (hardware), puis dans un second temps sur la partie logicielle, centrée principalement sur le développement du code destiné à la cible.</p>
 <img width="1444" height="1089" alt="image" src="https://github.com/user-attachments/assets/52400c4f-8493-485e-9055-0dc2e05742b7" />
 <img  align="center" width="251" height="598" alt="image" src="https://github.com/user-attachments/assets/55a36684-8d29-445b-846c-dd5c9d5f70b8" />
-<b>## Sommaire</b>
+
+
+<p>## Sommaire</p>
 
 [I. Qui sommes-nous ?](#i-qui-sommes-nous-)
 
